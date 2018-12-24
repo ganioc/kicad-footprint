@@ -1,5 +1,7 @@
 # KiCAD footprint
 
+KiCAD 5.0.1
+
 ## new_lib.pretty footprints
 
 - DDR3_card
