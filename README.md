@@ -14,4 +14,6 @@ KiCAD 5.0.1
   
 - SIM_card_micro
 
+- sod-923 footprint
+
 ##
